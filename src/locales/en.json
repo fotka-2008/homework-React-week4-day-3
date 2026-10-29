@@ -1,0 +1,92 @@
+{
+  "header": {
+    "logo": "Wanderly",
+    "nav": {
+      "destinations": "Destinations",
+      "features": "Why us",
+      "contact": "Contact"
+    },
+    "theme": {
+      "toLight": "Switch to light theme",
+      "toDark": "Switch to dark theme"
+    },
+    "language": "Language",
+    "menu": "Menu"
+  },
+  "hero": {
+    "badge": "2026 season is open",
+    "title": "Discover the world with us",
+    "subtitle": "Signature tours across the Pamir mountains, European coastlines and ancient Asian cities. We handle every detail — all you have to do is enjoy.",
+    "cta": "Choose a tour",
+    "secondary": "Learn more",
+    "stats": {
+      "tours": "tours",
+      "countries": "countries",
+      "clients": "happy travelers"
+    }
+  },
+  "slider": {
+    "title": "Popular destinations",
+    "subtitle": "Our travelers' favorite routes this season",
+    "days": "{{count}} days",
+    "from": "from {{price}}",
+    "book": "Details",
+    "prev": "Previous slide",
+    "next": "Next slide",
+    "items": {
+      "pamir": {
+        "title": "Pamir Highway",
+        "location": "Tajikistan",
+        "description": "One of the highest roads in the world, turquoise lakes and welcoming mountain villages."
+      },
+      "iskanderkul": {
+        "title": "Iskanderkul Lake",
+        "location": "Tajikistan",
+        "description": "A mountain lake in the Fann Mountains, the Fan Niagara waterfall and a night under the stars."
+      },
+      "paris": {
+        "title": "Romantic Paris",
+        "location": "France",
+        "description": "Walks around Montmartre, evenings by Canal Saint-Martin and the best croissants in town."
+      },
+      "kyoto": {
+        "title": "Ancient Kyoto",
+        "location": "Japan",
+        "description": "Thousands of temples, the Arashiyama bamboo grove and a tea ceremony with a master."
+      },
+      "iceland": {
+        "title": "Northern Lights",
+        "location": "Iceland",
+        "description": "Glaciers, geysers, black sand beaches and a hunt for the aurora borealis."
+      },
+      "santorini": {
+        "title": "Santorini Sunsets",
+        "location": "Greece",
+        "description": "White houses above the sea, volcanic beaches and the most beautiful sunsets of the Aegean."
+      }
+    }
+  },
+  "features": {
+    "title": "Why travelers choose us",
+    "items": {
+      "guides": {
+        "title": "Expert guides",
+        "text": "Local experts who know every trail and every story."
+      },
+      "safety": {
+        "title": "Safety first",
+        "text": "Insurance, trusted transport and 24/7 support during your trip."
+      },
+      "price": {
+        "title": "Fair prices",
+        "text": "No hidden fees — you always know what you are paying for."
+      }
+    }
+  },
+  "footer": {
+    "text": "Travel with joy.",
+    "email": "Email",
+    "phone": "Phone",
+    "rights": "All rights reserved."
+  }
+}
